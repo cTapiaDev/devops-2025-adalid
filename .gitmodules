@@ -1,3 +1,6 @@
 [submodule "M4-Automatización-de-pruebas/app-vuelos"]
 	path = M4-Automatización-de-pruebas/app-vuelos
 	url = https://github.com/cTapiaDev/app_vuelos
+[submodule "nivelacion-testing-python"]
+	path = nivelacion-testing-python
+	url = https://github.com/cTapiaDev/nivelacion-testing-python

@@ -4,3 +4,6 @@
 [submodule "nivelacion-testing-python"]
 	path = nivelacion-testing-python
 	url = https://github.com/cTapiaDev/nivelacion-testing-python
+[submodule "M4-Automatización-de-pruebas/test-unitarios"]
+	path = M4-Automatización-de-pruebas/test-unitarios
+	url = https://github.com/cTapiaDev/test-unitarios-java

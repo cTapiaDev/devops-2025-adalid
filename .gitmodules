@@ -7,3 +7,6 @@
 [submodule "M4-Automatización-de-pruebas/test-unitarios"]
 	path = M4-Automatización-de-pruebas/test-unitarios
 	url = https://github.com/cTapiaDev/test-unitarios-java
+[submodule "M4-Automatización-de-pruebas/test-unitarios-web"]
+	path = M4-Automatización-de-pruebas/test-unitarios-web
+	url = https://github.com/cTapiaDev/test-unitarios-web

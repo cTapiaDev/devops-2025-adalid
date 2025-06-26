@@ -10,3 +10,6 @@
 [submodule "M4-Automatización-de-pruebas/test-unitarios-web"]
 	path = M4-Automatización-de-pruebas/test-unitarios-web
 	url = https://github.com/cTapiaDev/test-unitarios-web
+[submodule "M4-Automatización-de-pruebas/test-rendimiento"]
+	path = M4-Automatización-de-pruebas/test-rendimiento
+	url = https://github.com/cTapiaDev/test-rendimiento-python

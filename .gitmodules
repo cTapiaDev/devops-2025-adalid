@@ -13,3 +13,6 @@
 [submodule "M4-Automatización-de-pruebas/test-rendimiento"]
 	path = M4-Automatización-de-pruebas/test-rendimiento
 	url = https://github.com/cTapiaDev/test-rendimiento-python
+[submodule "M4-Automatización-de-pruebas/selenium-ui-automation"]
+	path = M4-Automatización-de-pruebas/selenium-ui-automation
+	url = https://github.com/cTapiaDev/selenium-ui-automation

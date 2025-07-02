@@ -16,3 +16,6 @@
 [submodule "M4-Automatización-de-pruebas/selenium-ui-automation"]
 	path = M4-Automatización-de-pruebas/selenium-ui-automation
 	url = https://github.com/cTapiaDev/selenium-ui-automation
+[submodule "M5-Arquitectura-y-Escalabilidad/frontend-app-docker"]
+	path = M5-Arquitectura-y-Escalabilidad/frontend-app-docker
+	url = https://github.com/cTapiaDev/frontend-app-docker

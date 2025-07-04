@@ -22,3 +22,6 @@
 [submodule "M5-Arquitectura-y-Escalabilidad/kubernetes-app"]
 	path = M5-Arquitectura-y-Escalabilidad/kubernetes-app
 	url = https://github.com/cTapiaDev/kubernetes-app
+[submodule "M5-Arquitectura-y-Escalabilidad/app-localstack"]
+	path = M5-Arquitectura-y-Escalabilidad/app-localstack
+	url = https://github.com/cTapiaDev/app-localstack-aws-ecr

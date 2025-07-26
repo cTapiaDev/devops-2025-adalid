@@ -28,3 +28,12 @@
 [submodule "hubot"]
 	path = hubot
 	url = https://github.com/cTapiaDev/M7-Hubot
+[submodule "M7-sitio-hubot"]
+	path = M7-sitio-hubot
+	url = https://github.com/cTapiaDev/M7-sitio-hubot
+[submodule "M6/bash-red"]
+	path = M6/bash-red
+	url = https://github.com/cTapiaDev/desplegar_azure
+[submodule "M6/proyecto-pipeline-github"]
+	path = M6/proyecto-pipeline-github
+	url = https://github.com/cTapiaDev/proyecto-pipeline-github

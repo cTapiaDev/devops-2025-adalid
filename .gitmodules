@@ -25,3 +25,6 @@
 [submodule "M5-Arquitectura-y-Escalabilidad/app-localstack"]
 	path = M5-Arquitectura-y-Escalabilidad/app-localstack
 	url = https://github.com/cTapiaDev/app-localstack-aws-ecr
+[submodule "hubot"]
+	path = hubot
+	url = https://github.com/cTapiaDev/M7-Hubot

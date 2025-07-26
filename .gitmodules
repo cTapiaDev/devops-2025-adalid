@@ -34,3 +34,6 @@
 [submodule "M6/bash-red"]
 	path = M6/bash-red
 	url = https://github.com/cTapiaDev/desplegar_azure
+[submodule "M6/proyecto-pipeline-github"]
+	path = M6/proyecto-pipeline-github
+	url = https://github.com/cTapiaDev/proyecto-pipeline-github

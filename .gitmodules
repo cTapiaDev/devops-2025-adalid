@@ -28,3 +28,6 @@
 [submodule "hubot"]
 	path = hubot
 	url = https://github.com/cTapiaDev/M7-Hubot
+[submodule "M7-sitio-hubot"]
+	path = M7-sitio-hubot
+	url = https://github.com/cTapiaDev/M7-sitio-hubot

@@ -48,3 +48,15 @@ Para empezar, clona este repositorio en tu máquina local:
 ```bash
 git clone https://github.com/cTapiaDev/devops-2025-adalid.git
 ```
+
+---
+
+## 🙌 Contribuciones
+
+Si encuentras algún error o tienes alguna sugerencia para mejorar el material, ¿tu contribución es bienvenida! No dudes en abrir un **issue** o enviar un **pull request**. La colaboración es el corazón de la cultura DevOps.
+
+---
+
+<div align="center">
+  <strong>¡Disfruta del curso y feliz aprendizaje!</strong>
+</div>
